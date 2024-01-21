@@ -2,7 +2,6 @@
 <h1 align="center">Hii 👋, I'm Mariem Selmi</h1>
 <h3 align="center">A passionate engineering student from Tunisia</h3>
 
-- ⚡ Fun fact **I play piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
